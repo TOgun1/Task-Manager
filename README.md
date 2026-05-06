@@ -3,3 +3,5 @@
 Basic Task manager application using cli.
 Features include:
 Additions of tasks, Deletion of tasks, Completion of tasks and Listing of tasks.
+
+Will add more soon.
